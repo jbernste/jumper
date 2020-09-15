@@ -1,0 +1,8 @@
+{
+  "name": "jumper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "70b8449c"
+}
